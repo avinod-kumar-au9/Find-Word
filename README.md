@@ -1,4 +1,4 @@
-I created this mini game in the second month of my python learning.I taken the this idea from the internet.
+I created this mini game in my second month of python learning.I taken this idea from the internet.
 
 About:
 # Find Word
